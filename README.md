@@ -1,2 +1,2 @@
 # HTML5-Wallet
-Wagerr HTML5 Wallet Develeopment
+Wagerr HTML5 Wallet Development
